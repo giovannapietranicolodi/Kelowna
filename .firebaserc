@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "devops1-3",
+    "testingkelowna": "testingkelowna-gpn",
+    "stagingkelowna": "stagingkelowna-gpn"
+  },
+  "targets": {},
+  "etags": {}
+}
